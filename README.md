@@ -39,7 +39,10 @@ public class contactlist {
 		
 		WebElement addcontact=driver.findElement(By.id("add-contact"));
 		addcontact.click();
-		
+
+WebElement hari=driver.findElement(By.id("add-contact"));
+		addcontact.click();
+  
 		
 		
 	}
